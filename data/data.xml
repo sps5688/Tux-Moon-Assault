@@ -1,0 +1,15 @@
+<game>
+	<enemy>
+		<number>2</number>
+		<difficulty>1</difficulty>
+	</enemy>
+	<tokens>
+		<number>4</number>
+	</tokens>
+	<player>
+		<lives>10</lives>
+	</player>
+	<power_ups>
+		<bomb_score>100</bomb_score>
+	</power_ups>
+</game>
